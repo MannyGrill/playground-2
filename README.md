@@ -2,3 +2,5 @@
 
 
 Welcome to playground 2! Feel free to fork this repository for play-testing purposes
+
+For more information, feel free to reach out to us!
